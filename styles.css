@@ -1,0 +1,22 @@
+h2 {
+    color: orangered;
+}
+
+header {
+    text-align: center;
+    padding: 25px;
+    margin: 5px 100px;
+}
+
+#tripinfo {
+    font-style: italic;
+}
+
+.intro {
+    background-color: rgb(147, 164, 167);
+}
+
+section {
+    padding: 10px;
+    margin: 25px 100px;
+}
